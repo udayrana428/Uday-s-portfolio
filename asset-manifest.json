@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Uday-s-portfolio/static/css/main.612ab58f.chunk.css",
-    "main.js": "/Uday-s-portfolio/static/js/main.b55225c9.chunk.js",
-    "main.js.map": "/Uday-s-portfolio/static/js/main.b55225c9.chunk.js.map",
+    "main.css": "/Uday-s-portfolio/static/css/main.0721e3c2.chunk.css",
+    "main.js": "/Uday-s-portfolio/static/js/main.085ad26e.chunk.js",
+    "main.js.map": "/Uday-s-portfolio/static/js/main.085ad26e.chunk.js.map",
     "runtime-main.js": "/Uday-s-portfolio/static/js/runtime-main.5d7afabe.js",
     "runtime-main.js.map": "/Uday-s-portfolio/static/js/runtime-main.5d7afabe.js.map",
     "static/js/2.f6680bb9.chunk.js": "/Uday-s-portfolio/static/js/2.f6680bb9.chunk.js",
     "static/js/2.f6680bb9.chunk.js.map": "/Uday-s-portfolio/static/js/2.f6680bb9.chunk.js.map",
     "index.html": "/Uday-s-portfolio/index.html",
-    "static/css/main.612ab58f.chunk.css.map": "/Uday-s-portfolio/static/css/main.612ab58f.chunk.css.map",
+    "static/css/main.0721e3c2.chunk.css.map": "/Uday-s-portfolio/static/css/main.0721e3c2.chunk.css.map",
     "static/js/2.f6680bb9.chunk.js.LICENSE.txt": "/Uday-s-portfolio/static/js/2.f6680bb9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d7afabe.js",
     "static/js/2.f6680bb9.chunk.js",
-    "static/css/main.612ab58f.chunk.css",
-    "static/js/main.b55225c9.chunk.js"
+    "static/css/main.0721e3c2.chunk.css",
+    "static/js/main.085ad26e.chunk.js"
   ]
 }
